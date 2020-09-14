@@ -1,7 +1,7 @@
 <template>
     <div
         id="app"
-        class="container mx-auto flex justify-center items-center h-screen"
+        class="mx-auto"
     >
         <router-view />
     </div>
