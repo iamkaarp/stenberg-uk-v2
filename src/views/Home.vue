@@ -10,6 +10,6 @@ import Face from '@/components/Face.vue';
 export default {
     components: {
         Face,
-    },
+    },//
 };
 </script>
