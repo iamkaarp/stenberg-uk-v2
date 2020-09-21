@@ -11,8 +11,8 @@
   },
   "main": "api/index.js",
   "engines": {
-    "node": "12.x",
-    "npm": "6.x"
+    "node": "12.13.1",
+    "npm": "6.12.1"
   },
   "dependencies": {
     "core-js": "^3.6.5",
