@@ -55,8 +55,8 @@ jobs:
       with:
         aws_access_key: ${{secrets.AWS_ACCESS_KEY}}
         aws_secret_key: ${{secrets.AWS_SECRET_KEY}}
-        application_name: stenberguk
-        environment_name: Stenberguk-env
+        application_name: Stenberg-uk-v2
+        environment_name: Stenberg-uk-v2
         region: eu-north-1
         version_label: "stenberg-uk-v2-${{ steps.format-time.outputs.replaced }}"
         deployment_package: deploy.zip
